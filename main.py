@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-from hw02_2018315056_template_matching import template_matching
+from template_matching import template_matching
 import time # to be deleted
 
 if __name__ == "__main__":
